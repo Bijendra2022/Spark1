@@ -22,5 +22,8 @@ object obj {
     println(s"Hello \nworld")
     //raw String Interpolator
     println(raw"Hello \nworld")
+    //New line for next user story
+    println("Hare Krishna Hare Rama")
+    
      }
 }
